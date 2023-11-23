@@ -1,0 +1,52 @@
+part_2_specification
+    <- concept_reusable_component_specification;;
+
+part_2_specification = [*
+part_2_semantic_representation_and_ontological_systematization_of_knowledge_in_intelligent_computer_systems_of_the_new_generation
+    <- concept_reusable_component;
+    <- concept_atomic_reusable_component;
+    <- concept_independent_reusable_component;
+    <- concept_reusable_kb_component;
+    <- concept_reusable_dynamically_installed_component;
+    <- concept_reusable_source_code_component;
+
+    => nrel_sc_identifier: 
+      [Часть 2 Стандарта OSTIS. Смысловое представление и онтологическая систематизация знаний в интеллектуальных компьютерных системах нового поколения](* <- lang_ru;; *);
+
+    -> rrel_key_sc_element: concept_information_structure;
+    -> rrel_key_sc_element: concept_sc_identifier;
+    -> rrel_key_sc_element: concept_knowledge;
+    -> rrel_key_sc_element: concept_set;
+    -> rrel_key_sc_element: concept_relation;
+    -> rrel_key_sc_element: concept_parameter;
+    -> rrel_key_sc_element: concept_number;
+    -> rrel_key_sc_element: concept_structure;
+    -> rrel_key_sc_element: concept_temporal_entity;
+    -> rrel_key_sc_element: concept_situation;
+    -> rrel_key_sc_element: concept_semantic_neighborhood;
+    -> rrel_key_sc_element: concept_subject_domain;
+    -> rrel_key_sc_element: concept_ontology;
+    -> rrel_key_sc_element: concept_formal_theory;
+    -> rrel_key_sc_element: concept_file;
+    -> rrel_key_sc_element: concept_language;
+
+    
+    => nrel_purpose: [] (* <- lang_ru;; *);
+    => nrel_note: 
+        [В части рассмотрено описание видов языков и информационных конструкций в рамках соответствующей онтологии, уточнение модели смыслового представления знаний, использующей понятие смыслового пространства, способы внутреннего и внешнего представления информации ostis-систем, онтологическая систематизация фактографической и логической информации, средства описания структуры баз знаний, а также средства описания (спецификации) денотационной семантики и синтаксиса естественных языков в ostis-системах. Данная часть имеет важное значение для обеспечения семантической совместимости ostis-систем.] (* <- lang_ru;; *);
+    => nrel_authors: ... 
+      (* 
+          -> Bober;;
+          -> Nikiforov;;
+          -> Zotov;;
+          -> Shunkevich;;
+          -> Sadovsky;;
+          -> Bantsevich;;
+          -> Orlov;;
+          -> Vasilevskaya;;
+      *);
+    => nrel_component_dependencies: ... (* <- empty_set;; *);
+
+    => nrel_component_address: [https://github.com/PetrochukKsenija/part_2_specification] (* <- concept_github_url;; *);
+    => nrel_installation_method: ... (* <- concept_component_dynamically_installed_method;; *);;
+*];;

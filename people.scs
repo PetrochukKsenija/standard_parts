@@ -1,0 +1,89 @@
+Shunkevich
+=> nrel_main_idtf: 
+    [Шункевич Д.В.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Shunkevich D.V.] (* <- lang_en;; *);;
+
+Sadovsky
+=> nrel_main_idtf: 
+    [Садовский М.Е.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Sadovsky M.E.] (* <- lang_en;; *);;
+
+Nikiforov
+=> nrel_main_idtf: 
+    [Никифоров С.А.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Nikiforov S.A.] (* <- lang_en;; *);;
+
+Zotov
+=> nrel_main_idtf: 
+    [Зотов Н. В.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Zotov N.V.] (* <- lang_en;; *);;
+
+Mikhno
+=> nrel_main_idtf: 
+    [Михно Е. В.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Mikhno E.V.] (* <- lang_en;; *);;
+
+Kovalev
+=> nrel_main_idtf: 
+    [Ковалёв М. В.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Kovalev M.V.] (* <- lang_en;; *);;
+
+Kroschenko
+=> nrel_main_idtf: 
+    [Крощенко А. А.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Kroschenko A.A.] (* <- lang_en;; *);;
+
+Zakhariev
+=> nrel_main_idtf: 
+    [Захарьев В.А.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Zakhariev V.A.] (* <- lang_en;; *);;
+
+Orlov
+=> nrel_main_idtf: 
+    [Орлов М.К] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Orlov M.K.] (* <- lang_en;; *);;
+
+Bober
+=> nrel_main_idtf: 
+    [Бобёр Е.С.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Bober E.S.] (* <- lang_en;; *);;
+
+Bantsevich
+=> nrel_main_idtf: 
+    [Банцевич К.А.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Bantsevich K.A.] (* <- lang_en;; *);;
+
+Serdyukov
+=> nrel_main_idtf: 
+    [Сердюков Р. Е.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Serdyukov R.E.] (* <- lang_en;; *);;
+
+Vasilevskaya 
+=> nrel_main_idtf: 
+    [Василевская А. П.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Vasilevskaya A.P.] (* <- lang_en;; *);;
+
+Butrin
+=> nrel_main_idtf: 
+    [Бутрин С. В.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Butrin S.V.] (* <- lang_en;; *);;
+
+Zhmyrko
+=> nrel_main_idtf: 
+    [Жмырко А. В.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Zhmyrko A.V.] (* <- lang_en;; *);;

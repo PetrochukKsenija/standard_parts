@@ -1,0 +1,212 @@
+concept_cybernetic_system
+=> nrel_main_idtf: 
+    [кибернетическая система] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [cybernetic system] (* <- lang_en;; *);;
+
+concept_multiagent_system
+=> nrel_main_idtf: 
+    [многоагентная система] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [multiagent system] (* <- lang_en;; *);;
+
+concept_computer_system
+=> nrel_main_idtf: 
+    [компьютерная система] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [computer system] (* <- lang_en;; *);;
+
+concept_intelligent_computer_system
+=> nrel_main_idtf: 
+    [интеллектуальная компьютерная система] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [intelligent computer system] (* <- lang_en;; *);;
+
+concept_semantic_presentation_of_information
+=> nrel_main_idtf: 
+    [смысловое представление информации] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [semantic presentation of information] (* <- lang_en;; *);;
+
+concept_multi_agent_approach_to_information_processing
+=> nrel_main_idtf: 
+    [многоагентный подход к обработке информации] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [multi agent approach to information processing] (* <- lang_en;; *);;
+
+concept_approach_to_building_user_interface
+=> nrel_main_idtf: 
+    [подход к построению пользовательского интерфейса] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [approach to building user interface] (* <- lang_en;; *);;
+
+concept_technology_for_supporting_the_life_cycle_of_new_generation_intelligent_computer_systems
+=> nrel_main_idtf: 
+    [технология поддержки жизненного цикла ителектуальных систем нового поколения] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [technology for supporting the life cycle of new generation intelligent computer systems] (* <- lang_en;; *);;
+
+
+
+
+concept_information_structure
+=> nrel_main_idtf: 
+    [информационная конструкция] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [information structure] (* <- lang_en;; *);;
+
+concept_sc_identifier
+=> nrel_main_idtf: 
+    [sc-идентификатор] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [sc-identifier] (* <- lang_en;; *);;
+
+concept_knowledge
+=> nrel_main_idtf: 
+    [знание] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [knowledge] (* <- lang_en;; *);;
+
+concept_set
+=> nrel_main_idtf: 
+    [множество] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [set] (* <- lang_en;; *);;
+
+concept_relation
+=> nrel_main_idtf: 
+    [отношение] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [relation] (* <- lang_en;; *);;
+
+concept_parameter
+=> nrel_main_idtf: 
+    [параметр] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [parameter] (* <- lang_en;; *);;
+
+concept_number
+=> nrel_main_idtf: 
+    [число] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [number] (* <- lang_en;; *);;
+
+concept_structure
+=> nrel_main_idtf: 
+    [структура] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [structure] (* <- lang_en;; *);;
+
+concept_temporal_entity
+=> nrel_main_idtf: 
+    [временная сущность] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [temporal entity] (* <- lang_en;; *);;
+
+concept_situation
+=> nrel_main_idtf: 
+    [ситуация] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [situation] (* <- lang_en;; *);;
+
+concept_semantic_neighborhood
+=> nrel_main_idtf: 
+    [семантическая окрестность] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [semantic neighborhood] (* <- lang_en;; *);;
+
+concept_subject_domain
+=> nrel_main_idtf: 
+    [предметная область] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [subject domain] (* <- lang_en;; *);;
+
+concept_ontology
+=> nrel_main_idtf: 
+    [онтология] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [ontology] (* <- lang_en;; *);;
+
+concept_formal_theory
+=> nrel_main_idtf: 
+    [формальная теория] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [formal theory] (* <- lang_en;; *);;
+
+concept_file
+=> nrel_main_idtf: 
+    [файл] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [file] (* <- lang_en;; *);;
+
+concept_language
+=> nrel_main_idtf: 
+    [язык] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [language] (* <- lang_en;; *);;
+
+
+
+
+concept_action_in_sc_memory
+=> nrel_main_idtf: 
+    [лнйствие в sc-памяти] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [action in sc-memory] (* <- lang_en;; *);;
+
+concept_abstract_sc_agent
+=> nrel_main_idtf: 
+    [вбстрактный sc-агент] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [abstract sc-agent] (* <- lang_en;; *);;
+
+concept_sc_agent
+=> nrel_main_idtf: 
+    [sc-агент] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [sc-agent] (* <- lang_en;; *);;
+
+concept_scp_program
+=> nrel_main_idtf: 
+    [scp-программа] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [scp-program] (* <- lang_en;; *);;
+
+concept_scp_operator
+=> nrel_main_idtf: 
+    [scp-оператор] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [scp-operator] (* <- lang_en;; *);;
+
+concept_artificial_neural_network
+=> nrel_main_idtf: 
+    [искусственная нейронная сеть] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [artificial neural network] (* <- lang_en;; *);;
+
+concept_abstract_scp_machine
+=> nrel_main_idtf: 
+    [абстрактная scp-машина] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [abstract scp-machine] (* <- lang_en;; *);;
+
+concept_action_of_processing_artificial_neural_networks
+=> nrel_main_idtf: 
+    [действие по обработке искусственных нейронных сетей] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [the action of processing artificial neural networks] (* <- lang_en;; *);;
+
+
+
+concept_user_interface_action
+=> nrel_main_idtf: 
+    [интерфейсное действие пользователя] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [user interface action] (* <- lang_en;; *);;
+
+concept_user_interface
+=> nrel_main_idtf: 
+    [пользовательский интерфейс] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [user interface] (* <- lang_en;; *);;
+
