@@ -1,0 +1,37 @@
+part_5_specification
+    <- concept_reusable_component_specification;;
+
+part_5_specification = [*
+part_5_methods_and_tools_of_engineering_of_intelligent_computer_systems_new_generation
+    <- concept_reusable_component;
+    <- concept_atomic_reusable_component;
+    <- concept_independent_reusable_component;
+    <- concept_reusable_kb_component;
+    <- concept_reusable_dynamically_installed_component;
+    <- concept_reusable_source_code_component;
+
+    => nrel_sc_identifier: [Часть 5 Стандарта OSTIS. Методы и средства проектирования интеллектуальных компьютерных систем нового поколения](* <- lang_ru;; *);
+    
+    -> rrel_key_sc_element: concept_reusable_library_of_ostis_system_components;
+    -> rrel_key_sc_element: concept_reusable_ostis_system_component;
+    -> rrel_key_sc_element: concept_reusable_ostis_system_kb_component;
+    
+    => nrel_purpose: [обеспечить высокий уровень семантической совместимости компонентов](* <- lang_ru;; *);
+    => nrel_note: [В данной части рассматриваются методы и средства, позволяющие повысить качество и удобство проектирования современных интеллектуальных систем. Принципы, лежащие в основе компонентного проектирования баз знаний, решателей задач и интерфейсов ostis-систем. Приведена типология многократно используемых компонентов ostis-систем, а также модель библиотек многократно используемых компонентов ostis-систем.] (* <- lang_ru;; *);
+    => nrel_authors: ... (*
+         -> Shunkevich;;
+         -> Orlov;;
+         -> Bantsevich;;
+         -> Zotov;;
+         -> Sadovsky;;
+         -> Butrin;;
+         -> Kovalev;;
+         -> Kroschenko;;
+         -> Mikhno;;
+         -> Zhmyrko;;
+    *);
+    => nrel_component_dependencies: ... (* <- empty_set;; *);
+
+    => nrel_component_address: [https://github.com/PetrochukKsenija/part_5_component] (* <- concept_github_url;; *);
+    => nrel_installation_method: ... (* <- concept_component_dynamically_installed_method;; *);;
+*];;

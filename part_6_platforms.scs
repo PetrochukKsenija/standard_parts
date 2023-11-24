@@ -1,0 +1,33 @@
+part_6_specification
+    <- concept_reusable_component_specification;;
+
+part_6_specification = [*
+part_6_intelligent_computer_systems_new_generation_implementation_platforms
+    <- concept_reusable_component;
+    <- concept_atomic_reusable_component;
+    <- concept_independent_reusable_component;
+    <- concept_reusable_kb_component;
+    <- concept_reusable_dynamically_installed_component;
+    <- concept_reusable_source_code_component;
+
+    => nrel_sc_identifier: [Часть 6 Стандарта OSTIS. Платформы реализации интеллектуальных компьютерных систем нового поколения](* <- lang_ru;; *);
+
+    -> rrel_key_sc_element: concept_interpretation_platform_of_computer_systems_sc_models;
+    -> rrel_key_sc_element: concept_semantic_associative_computer;
+    -> rrel_key_sc_element: concept_software_version_of_the_interpretation_platform_of_computer_systems;
+
+
+    => nrel_purpose: [повысить производительность компьютерных систем, основанных на знаниях, представленных в виде семантических сетей](* <- lang_ru;; *);
+    => nrel_note: [Уточнение понятия платформенной независимости интеллектуальных компьютерных систем нового поколения. Требования, предъявляемые к платформам интерпретации sc-моделей ostis-систем. Принципы и способы реализации аппаратной платформы для ostis-систем (ассоциативного семантического компьютера). Спецификация и существующие аналоги программного варианта реализации платформы для ostis-систем] (* <- lang_ru;; *);
+    => nrel_authors: ... (*
+         -> Shunkevich;;
+         -> Koronchik;;
+         -> Markovetc;;
+         -> Zotov;;
+         -> Orlov;;
+        *);
+    => nrel_component_dependencies: ... (* <- empty_set;; *);
+
+    => nrel_component_address: [https://github.com/PetrochukKsenija/part_6_component] (* <- concept_github_url;; *);
+    => nrel_installation_method: ... (* <- concept_component_dynamically_installed_method;; *);;
+*];;
