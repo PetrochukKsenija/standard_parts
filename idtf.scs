@@ -210,3 +210,98 @@ concept_user_interface
 => nrel_main_idtf: 
     [user interface] (* <- lang_en;; *);;
 
+
+
+concept_reusable_library_of_ostis_system_components
+=> nrel_main_idtf: 
+    [библиотека многократно используемых компонентов ostis-систем] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [reusable library of ostis-system components] (* <- lang_en;; *);;
+
+concept_reusable_ostis_system_component
+=> nrel_main_idtf: 
+    [многократно используемый компонент ostis-систем] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [reusable ostis-system component] (* <- lang_en;; *);;
+
+concept_reusable_ostis_system_kb_component
+=> nrel_main_idtf: 
+    [многократно используемый компонент баз знаний ostis-систем] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [reusable ostis-system kb component] (* <- lang_en;; *);;
+  
+
+
+concept_interpretation_platform_of_computer_systems_sc_models
+=> nrel_main_idtf: 
+    [платформа интерпретации sc-моделей компьютерный систем] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [interpretation platform of computer systems sc-models] (* <- lang_en;; *);;
+
+concept_semantic_associative_computer
+=> nrel_main_idtf: 
+    [семантический ассоциативный компьютер] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [semantic associative computer] (* <- lang_en;; *);;
+
+concept_software_version_of_the_interpretation_platform_of_computer_systems
+=> nrel_main_idtf: 
+    [программный вариант реализации платформы интерпретации sc-моделей компьютерных систем] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [software version of the interpretation platform of computer systems] (* <- lang_en;; *);;
+
+
+
+concept_ostis_ecosystem
+=> nrel_main_idtf: 
+    [Экосистема OSTIS] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [ostis ecosystem] (* <- lang_en;; *);;
+
+concept_science_knowledge_portal
+=> nrel_main_idtf: 
+    [портал научных знаний] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [science knowledge portal] (* <- lang_en;; *);;
+
+concept_data_smart_room
+=> nrel_main_idtf: 
+    [интеллектуальная комната данных] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [data smart room] (* <- lang_en;; *);;
+
+concept_personal_ostis_assistant
+=> nrel_main_idtf: 
+    [персональный ostis-ассистент] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [personal ostis assistant] (* <- lang_en;; *);;
+
+concept_learnability
+=> nrel_main_idtf: 
+    [обучаемость] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [learnability] (* <- lang_en;; *);;
+
+concept_automation_production_system
+=> nrel_main_idtf: 
+    [система автоматизации производства] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [automation production system] (* <- lang_en;; *);;
+
+concept_equipment_entity
+=> nrel_main_idtf: 
+    [объект оборудования] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [equipment entity] (* <- lang_en;; *);;
+
+concept_process_element
+=> nrel_main_idtf: 
+    [процессный элемент] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [process element] (* <- lang_en;; *);;
+
+concept_procedural_element
+=> nrel_main_idtf: 
+    [процедурный элемент] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [procedural element] (* <- lang_en;; *);;

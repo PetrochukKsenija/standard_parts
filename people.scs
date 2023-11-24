@@ -87,3 +87,51 @@ Zhmyrko
     [Жмырко А. В.] (* <- lang_ru;; *);
 => nrel_main_idtf: 
     [Zhmyrko A.V.] (* <- lang_en;; *);;
+
+Koronchik
+=> nrel_main_idtf: 
+    [Корончик Д.Н] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Koronchik D.N.] (* <- lang_en;; *);;
+
+Markovetc
+=> nrel_main_idtf: 
+    [Марковец В.С.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Markovetc V.S.] (* <- lang_en;; *);;
+
+Zagorcky
+=> nrel_main_idtf: 
+    [Загорский А.С.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Zagorcky A.S.] (* <- lang_en;; *);;
+
+Guliakina
+=> nrel_main_idtf: 
+    [Гулякина Н.А.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Guliakina N.A.] (* <- lang_en;; *);;
+
+Ivanyk
+=> nrel_main_idtf: 
+    [Иванюк Д.С.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Ivanyk D.S.] (* <- lang_en;; *);;
+
+Kasyanik
+=> nrel_main_idtf: 
+    [Казаник] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Kasyanik] (* <- lang_en;; *);;
+
+Pupena
+=> nrel_main_idtf: 
+    [Пупена А.Н.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Pupena A.N.] (* <- lang_en;; *);;
+    
+Samodumkin
+=> nrel_main_idtf: 
+    [Самодумкин С.А.] (* <- lang_ru;; *);
+=> nrel_main_idtf: 
+    [Samodumkin S.A.] (* <- lang_en;; *);;
